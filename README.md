@@ -1,21 +1,21 @@
 # cheat-sheet
 
-:pig: Collect of cheat sheet !
+:pig: Collections of cheat sheet !
 
 - Git
-  - [Git 常用命令速查表](./git/)
+  - [Git 常用命令速查表](./git#git-常用命令速查表)
 
 - Python
-  - [PyCharm 快捷键](./python/)
+  - [PyCharm 快捷键](./python#PyCharm-快捷键)
 
 - Vi / Vim
-  - [Vi / Vim 键盘图](./vi-vim/)
+  - [Vi / Vim 键盘图](./vi-vim#vi--vim-键盘图)
 
 - IME
-  - [自然码键位图](./input-method/)
+  - [自然码键位图](./input-method#自然码键位图)
 
 - Interview
-  - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - [yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ## License
 
