@@ -1,18 +1,18 @@
-# cheat-sheet
+# Cheat Sheet
 
 :pig: Collections of cheat sheet !
 
 - Git
-  - [Git 常用命令速查表](./git#git-常用命令速查表)
+  - [Git 常用命令速查表](./git#git-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E8%A1%A8)
 
 - Python
-  - [PyCharm 快捷键](./python#PyCharm-快捷键)
+  - [PyCharm 快捷键](./python#pycharm-%E5%BF%AB%E6%8D%B7%E9%94%AE)
 
 - Vi / Vim
-  - [Vi / Vim 键盘图](./vi-vim#vi--vim-键盘图)
+  - [Vi / Vim 键盘图](./vi-vim#vi--vim-%E9%94%AE%E7%9B%98%E5%9B%BE)
 
 - IME
-  - [自然码键位图](./input-method#自然码键位图)
+  - [自然码键位图](./input-method#%E8%87%AA%E7%84%B6%E7%A0%81%E9%94%AE%E4%BD%8D%E5%9B%BE)
 
 - Interview
   - [yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
